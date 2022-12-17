@@ -18,4 +18,4 @@ The folllowing tools and skills were used in this project.
 - Storytelling in Tableau
 
 # Visualizatons
-URL: [(https://public.tableau.com/app/profile/judith.ifarinde.lay/viz/Final-UniversityRanking/Story1?publish=yes)](https://public.tableau.com/app/profile/judith.ifarinde.lay/viz/Final-UniversityRanking/Story1?publish=yes)
+URL: [(https://public.tableau.com/app/profile/judith.ifarinde.lay)](https://public.tableau.com/app/profile/judith.ifarinde.lay/viz/Final-UniversityRanking/Story1?publish=yes)

@@ -11,7 +11,6 @@ The folllowing tools and skills were used in this project.
 - Python
 - Machine Learning
 - Data Wrangling
-- Derivign Variables
 - Grouping & Clustering Data
 - Population Flow
 - Linear Regression Modeling

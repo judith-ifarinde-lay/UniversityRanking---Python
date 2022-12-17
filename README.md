@@ -4,7 +4,7 @@ Universities are located all around the world. Due to the number of options avai
 I was asked to perform an initial data and exploratory analysis of some of their data to derive insights and suggest strategies for better segmentation based on the provided criteria.
 
 # Data
-The data used for this project are an open source data from Kaggle. *Citation: “Center for World University Rankings”, Accessed from [https://www.kaggle.com/datasets/unsdsn/world-happiness](https://www.kaggle.com/datasets/mylesoneill/world-university-rankings) on 12/17/2022.*
+The data used for this project are an open source data from Kaggle. *Citation: “Center for World University Rankings”, Accessed from [https://www.kaggle.com/datasets/mylesoneill/world-university-rankings](https://www.kaggle.com/datasets/mylesoneill/world-university-rankings) on 12/17/2022.*
 
 # Tools
 The folllowing tools and skills were used in this project.

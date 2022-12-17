@@ -1,0 +1,334 @@
+,country,institute_type,direct_expenditure_type,1995,2000,2005,2009,2010,2011
+0,OECD Average,All Institutions ,Public,4.9,4.9,5.0,5.4,5.4,5.3
+1,Australia,All Institutions ,Public,4.5,4.6,4.3,4.5,4.6,4.3
+2,Austria,All Institutions ,Public,5.3,5.4,5.2,5.7,5.6,5.5
+3,Belgium,All Institutions ,Public,5.0,5.1,5.8,6.4,6.4,6.4
+4,Canada,All Institutions ,Public,5.8,5.2,4.8,5.0,5.2,
+5,Chile,All Institutions ,Public,,4.2,3.3,4.1,4.3,3.9
+6,Czech Republic,All Institutions ,Public,4.8,4.2,4.1,4.2,4.1,4.4
+7,Denmark,All Institutions ,Public,6.5,6.4,6.8,7.5,7.6,7.5
+8,Estonia,All Institutions ,Public,,,4.7,5.9,5.6,5.2
+9,Finland,All Institutions ,Public,6.6,5.5,5.9,6.3,6.4,6.3
+10,France,All Institutions ,Public,5.8,5.7,5.6,5.8,5.8,5.6
+11,Germany,All Institutions ,Public,4.5,4.3,4.2,4.5,,4.4
+12,Greece,All Institutions ,Public,3.7,3.7,4.0,,,
+13,Hungary,All Institutions ,Public,4.9,4.4,5.1,4.8,4.6,4.4
+14,Iceland,All Institutions ,Public,4.5,5.7,7.2,7.3,7.0,6.9
+15,Ireland,All Institutions ,Public,4.7,4.1,4.3,6.0,6.0,5.7
+16,Israel,All Institutions ,Public,,6.6,6.2,5.8,5.9,5.6
+17,Italy,All Institutions ,Public,4.5,4.5,4.3,4.5,4.3,4.2
+18,Japan,All Institutions ,Public,3.6,3.5,3.4,3.6,3.6,3.6
+19,"Korea, Republic of",All Institutions ,Public,3.6,4.3,4.3,4.9,4.8,4.9
+20,Luxembourg,All Institutions ,Public,4.3,,,,,
+21,Mexico,All Institutions ,Public,4.6,4.7,5.3,5.0,5.1,5.0
+22,Netherlands,All Institutions ,Public,4.6,4.3,4.6,5.3,5.4,5.3
+23,New Zealand,All Institutions ,Public,5.3,5.8,5.2,6.1,6.0,6.3
+24,Norway,All Institutions ,Public,6.8,5.8,5.7,6.1,7.5,7.3
+25,Poland,All Institutions ,Public,5.2,5.2,5.4,5.0,5.0,4.8
+26,Portugal,All Institutions ,Public,5.4,5.6,5.3,5.5,5.4,5.1
+27,Slovak Republic,All Institutions ,Public,4.6,4.0,3.7,4.1,4.0,3.8
+28,Slovenia,All Institutions ,Public,,,5.3,5.3,5.2,5.3
+29,Spain,All Institutions ,Public,4.8,4.3,4.1,4.9,4.8,4.7
+30,Sweden,All Institutions ,Public,6.6,6.3,6.2,6.6,6.3,6.2
+31,Switzerland,All Institutions ,Public,5.5,5.3,5.6,5.5,5.2,5.2
+32,Turkey,All Institutions ,Public,2.2,3.4,,,,
+33,United Kingdom,All Institutions ,Public,4.6,4.5,5.0,5.3,5.9,5.6
+34,United States,All Institutions ,Public,5.0,4.6,4.9,5.3,5.1,4.7
+35,  Brazil,All Institutions ,Public,,,4.4,5.5,5.6,5.9
+36,  Russian Federation,All Institutions ,Public,3.4,3.0,3.8,4.7,4.1,3.9
+37,OECD Average,Elementary and Secondary Institutions ,Public,3.5,3.4,3.5,3.7,3.7,3.6
+38,Australia,Elementary and Secondary Institutions ,Public,3.2,3.7,3.4,3.6,3.7,3.5
+39,Austria,Elementary and Secondary Institutions ,Public,3.8,3.7,3.5,3.8,3.5,3.5
+40,Belgium,Elementary and Secondary Institutions ,Public,3.4,3.4,3.9,4.3,4.3,4.3
+41,Canada,Elementary and Secondary Institutions ,Public,4.0,3.3,3.3,3.4,3.6,
+42,Chile,Elementary and Secondary Institutions ,Public,,3.2,2.7,3.3,2.9,2.7
+43,Czech Republic,Elementary and Secondary Institutions ,Public,3.4,2.8,2.7,2.6,2.6,2.6
+44,Denmark,Elementary and Secondary Institutions ,Public,4.2,4.1,4.4,4.7,4.7,4.3
+45,Estonia,Elementary and Secondary Institutions ,Public,,,3.5,4.1,3.9,3.3
+46,Finland,Elementary and Secondary Institutions ,Public,4.2,3.5,3.8,4.1,4.1,4.1
+47,France,Elementary and Secondary Institutions ,Public,4.1,4.0,3.8,3.8,3.8,3.7
+48,Germany,Elementary and Secondary Institutions ,Public,2.9,2.9,2.8,2.9,,2.8
+49,Greece,Elementary and Secondary Institutions ,Public,2.8,2.7,2.5,,,
+50,Hungary,Elementary and Secondary Institutions ,Public,3.3,2.8,3.3,3.0,2.8,2.6
+51,Iceland,Elementary and Secondary Institutions ,Public,3.4,4.6,5.2,5.0,4.7,4.7
+52,Ireland,Elementary and Secondary Institutions ,Public,3.3,2.9,3.3,4.6,4.6,4.4
+53,Israel,Elementary and Secondary Institutions ,Public,,4.5,4.2,3.8,4.0,3.8
+54,Italy,Elementary and Secondary Institutions ,Public,3.2,3.2,3.2,3.3,3.1,3.0
+55,Japan,Elementary and Secondary Institutions ,Public,2.8,2.7,2.6,2.7,2.8,2.7
+56,"Korea, Republic of",Elementary and Secondary Institutions ,Public,3.0,3.3,3.4,3.6,3.4,3.4
+57,Luxembourg,Elementary and Secondary Institutions ,Public,4.2,,3.7,3.2,3.4,3.3
+58,Mexico,Elementary and Secondary Institutions ,Public,3.4,3.3,3.7,3.3,3.4,3.3
+59,Netherlands,Elementary and Secondary Institutions ,Public,3.0,3.0,3.3,3.7,3.7,3.6
+60,New Zealand,Elementary and Secondary Institutions ,Public,3.8,4.6,4.0,4.5,4.4,4.8
+61,Norway,Elementary and Secondary Institutions ,Public,4.1,3.6,3.8,4.2,5.1,4.9
+62,Poland,Elementary and Secondary Institutions ,Public,3.3,3.7,3.7,3.5,3.4,3.2
+63,Portugal,Elementary and Secondary Institutions ,Public,4.1,4.1,3.8,4.0,3.9,3.7
+64,Slovak Republic,Elementary and Secondary Institutions ,Public,,2.7,2.5,2.7,2.8,2.5
+65,Slovenia,Elementary and Secondary Institutions ,Public,,,3.9,3.6,3.6,3.5
+66,Spain,Elementary and Secondary Institutions ,Public,3.5,3.1,2.7,3.1,3.0,2.9
+67,Sweden,Elementary and Secondary Institutions ,Public,4.4,4.4,4.2,4.2,4.0,3.9
+68,Switzerland,Elementary and Secondary Institutions ,Public,4.1,3.8,3.9,3.8,3.6,3.6
+69,Turkey,Elementary and Secondary Institutions ,Public,1.4,2.4,,,2.5,
+70,United Kingdom,Elementary and Secondary Institutions ,Public,3.8,3.4,3.8,4.5,4.8,4.4
+71,United States,Elementary and Secondary Institutions ,Public,3.5,3.5,3.6,3.8,3.7,3.4
+72,  Brazil,Elementary and Secondary Institutions ,Public,,,3.3,4.3,4.3,4.4
+73,  Russian Federation,Elementary and Secondary Institutions ,Public,1.9,1.7,1.9,2.3,2.0,2.0
+74,OECD Average,Higher Education Institutions ,Public,0.9,1.0,1.0,1.1,1.1,1.1
+75,Australia,Higher Education Institutions ,Public,1.2,0.8,0.8,0.7,0.8,0.7
+76,Austria,Higher Education Institutions ,Public,0.9,1.2,1.2,1.4,1.5,1.4
+77,Belgium,Higher Education Institutions ,Public,0.9,1.2,1.2,1.4,1.4,1.3
+78,Canada,Higher Education Institutions ,Public,1.5,1.6,1.5,1.5,1.6,
+79,Chile,Higher Education Institutions ,Public,,0.6,0.3,0.3,0.8,0.7
+80,Czech Republic,Higher Education Institutions ,Public,0.7,0.8,0.8,1.0,1.0,1.2
+81,Denmark,Higher Education Institutions ,Public,1.3,1.5,1.6,1.8,1.8,1.8
+82,Estonia,Higher Education Institutions ,Public,,,0.9,1.3,1.3,1.4
+83,Finland,Higher Education Institutions ,Public,1.7,1.7,1.7,1.8,1.9,1.9
+84,France,Higher Education Institutions ,Public,1.0,1.0,1.1,1.3,1.3,1.3
+85,Germany,Higher Education Institutions ,Public,1.0,1.0,0.9,1.1,,1.1
+86,Greece,Higher Education Institutions ,Public,0.8,0.9,1.4,,,
+87,Hungary,Higher Education Institutions ,Public,0.8,0.9,0.9,1.0,0.8,1.0
+88,Iceland,Higher Education Institutions ,Public,0.7,0.8,1.1,1.2,1.1,1.1
+89,Ireland,Higher Education Institutions ,Public,0.9,1.2,1.0,1.4,1.3,1.2
+90,Israel,Higher Education Institutions ,Public,,1.1,1.0,1.0,1.0,0.9
+91,Italy,Higher Education Institutions ,Public,0.7,0.7,0.6,0.8,0.8,0.8
+92,Japan,Higher Education Institutions ,Public,0.4,0.5,0.5,0.5,0.5,0.5
+93,"Korea, Republic of",Higher Education Institutions ,Public,0.3,0.6,0.6,0.7,0.7,0.7
+94,Luxembourg,Higher Education Institutions ,Public,0.1,,,,,
+95,Mexico,Higher Education Institutions ,Public,0.8,0.8,0.9,1.0,1.0,0.9
+96,Netherlands,Higher Education Institutions ,Public,1.1,1.0,1.0,1.2,1.3,1.3
+97,New Zealand,Higher Education Institutions ,Public,1.1,0.9,0.9,1.1,1.0,1.0
+98,Norway,Higher Education Institutions ,Public,1.5,1.2,1.3,1.3,1.6,1.6
+99,Poland,Higher Education Institutions ,Public,0.8,0.8,1.2,1.1,1.0,1.0
+100,Portugal,Higher Education Institutions ,Public,1.0,1.0,0.9,1.0,1.0,1.0
+101,Slovak Republic,Higher Education Institutions ,Public,,0.7,0.7,0.7,0.7,0.8
+102,Slovenia,Higher Education Institutions ,Public,,,1.0,1.1,1.1,1.1
+103,Spain,Higher Education Institutions ,Public,0.8,0.9,0.9,1.1,1.1,1.0
+104,Sweden,Higher Education Institutions ,Public,1.6,1.5,1.5,1.6,1.6,1.6
+105,Switzerland,Higher Education Institutions ,Public,1.1,1.2,1.4,1.4,1.3,1.3
+106,Turkey,Higher Education Institutions ,Public,0.8,1.0,,,,
+107,United Kingdom,Higher Education Institutions ,Public,0.7,0.7,0.9,0.6,0.7,0.9
+108,United States,Higher Education Institutions ,Public,1.1,0.8,1.0,1.1,1.0,0.9
+109,  Brazil,Higher Education Institutions ,Public,,,0.8,0.8,0.9,0.9
+110,  Russian Federation,Higher Education Institutions ,Public,0.7,0.5,0.8,1.2,1.0,0.9
+111,OECD Average,All Institutions ,Private,,,,,,0.9
+112,Australia,All Institutions ,Private,,,,,,1.5
+113,Austria,All Institutions ,Private,,,,,,0.2
+114,Belgium,All Institutions ,Private,,,,,,0.2
+115,Canada,All Institutions ,Private,,,,,,
+116,Chile,All Institutions ,Private,,,,,,2.5
+117,Czech Republic,All Institutions ,Private,,,,,,0.6
+118,Denmark,All Institutions ,Private,,,,,,0.4
+119,Estonia,All Institutions ,Private,,,,,,0.3
+120,Finland,All Institutions ,Private,,,,,,0.1
+121,France,All Institutions ,Private,,,,,,0.5
+122,Germany,All Institutions ,Private,,,,,,0.7
+123,Greece,All Institutions ,Private,,,,,,
+124,Hungary,All Institutions ,Private,,,,,,
+125,Iceland,All Institutions ,Private,,,,,,0.7
+126,Ireland,All Institutions ,Private,,,,,,0.5
+127,Israel,All Institutions ,Private,,,,,,1.7
+128,Italy,All Institutions ,Private,,,,,,0.4
+129,Japan,All Institutions ,Private,,,,,,1.6
+130,"Korea, Republic of",All Institutions ,Private,,,,,,2.8
+131,Luxembourg,All Institutions ,Private,,,,,,
+132,Mexico,All Institutions ,Private,,,,,,1.1
+133,Netherlands,All Institutions ,Private,,,,,,0.9
+134,New Zealand,All Institutions ,Private,,,,,,1.2
+135,Norway,All Institutions ,Private,,,,,,
+136,Poland,All Institutions ,Private,,,,,,0.7
+137,Portugal,All Institutions ,Private,,,,,,0.4
+138,Slovak Republic,All Institutions ,Private,,,,,,0.5
+139,Slovenia,All Institutions ,Private,,,,,,0.7
+140,Spain,All Institutions ,Private,,,,,,0.8
+141,Sweden,All Institutions ,Private,,,,,,0.2
+142,Switzerland,All Institutions ,Private,,,,,,0.4
+143,Turkey,All Institutions ,Private,,,,,,
+144,United Kingdom,All Institutions ,Private,,,,,,0.8
+145,United States,All Institutions ,Private,,,,,,2.2
+146,  Brazil,All Institutions ,Private,,,,,,
+147,  Russian Federation,All Institutions ,Private,,,,,,0.7
+148,OECD Average,Elementary and Secondary Institutions ,Private,,,,,,0.3
+149,Australia,Elementary and Secondary Institutions ,Private,,,,,,0.6
+150,Austria,Elementary and Secondary Institutions ,Private,,,,,,0.1
+151,Belgium,Elementary and Secondary Institutions ,Private,,,,,,0.1
+152,Canada,Elementary and Secondary Institutions ,Private,,,,,,
+153,Chile,Elementary and Secondary Institutions ,Private,,,,,,0.7
+154,Czech Republic,Elementary and Secondary Institutions ,Private,,,,,,0.3
+155,Denmark,Elementary and Secondary Institutions ,Private,,,,,,0.1
+156,Estonia,Elementary and Secondary Institutions ,Private,,,,,,0.0
+157,Finland,Elementary and Secondary Institutions ,Private,,,,,,0.0
+158,France,Elementary and Secondary Institutions ,Private,,,,,,0.3
+159,Germany,Elementary and Secondary Institutions ,Private,,,,,,0.4
+160,Greece,Elementary and Secondary Institutions ,Private,,,,,,
+161,Hungary,Elementary and Secondary Institutions ,Private,,,,,,
+162,Iceland,Elementary and Secondary Institutions ,Private,,,,,,0.2
+163,Ireland,Elementary and Secondary Institutions ,Private,,,,,,0.2
+164,Israel,Elementary and Secondary Institutions ,Private,,,,,,0.4
+165,Italy,Elementary and Secondary Institutions ,Private,,,,,,0.1
+166,Japan,Elementary and Secondary Institutions ,Private,,,,,,0.2
+167,"Korea, Republic of",Elementary and Secondary Institutions ,Private,,,,,,0.8
+168,Luxembourg,Elementary and Secondary Institutions ,Private,,,,,,0.1
+169,Mexico,Elementary and Secondary Institutions ,Private,,,,,,0.6
+170,Netherlands,Elementary and Secondary Institutions ,Private,,,,,,0.4
+171,New Zealand,Elementary and Secondary Institutions ,Private,,,,,,0.6
+172,Norway,Elementary and Secondary Institutions ,Private,,,,,,
+173,Poland,Elementary and Secondary Institutions ,Private,,,,,,0.2
+174,Portugal,Elementary and Secondary Institutions ,Private,,,,,,0.0
+175,Slovak Republic,Elementary and Secondary Institutions ,Private,,,,,,0.3
+176,Slovenia,Elementary and Secondary Institutions ,Private,,,,,,0.3
+177,Spain,Elementary and Secondary Institutions ,Private,,,,,,0.3
+178,Sweden,Elementary and Secondary Institutions ,Private,,,,,,0.0
+179,Switzerland,Elementary and Secondary Institutions ,Private,,,,,,0.5
+180,Turkey,Elementary and Secondary Institutions ,Private,,,,,,
+181,United Kingdom,Elementary and Secondary Institutions ,Private,,,,,,0.4
+182,United States,Elementary and Secondary Institutions ,Private,,,,,,0.3
+183,  Brazil,Elementary and Secondary Institutions ,Private,,,,,,
+184,  Russian Federation,Elementary and Secondary Institutions ,Private,,,,,,0.1
+185,OECD Average,Higher Education Institutions ,Private,,,,,,0.5
+186,Australia,Higher Education Institutions ,Private,,,,,,0.9
+187,Austria,Higher Education Institutions ,Private,,,,,,0.1
+188,Belgium,Higher Education Institutions ,Private,,,,,,0.1
+189,Canada,Higher Education Institutions ,Private,,,,,,
+190,Chile,Higher Education Institutions ,Private,,,,,,1.7
+191,Czech Republic,Higher Education Institutions ,Private,,,,,,0.3
+192,Denmark,Higher Education Institutions ,Private,,,,,,0.1
+193,Estonia,Higher Education Institutions ,Private,,,,,,0.3
+194,Finland,Higher Education Institutions ,Private,,,,,,0.1
+195,France,Higher Education Institutions ,Private,,,,,,0.2
+196,Germany,Higher Education Institutions ,Private,,,,,,0.2
+197,Greece,Higher Education Institutions ,Private,,,,,,
+198,Hungary,Higher Education Institutions ,Private,,,,,,
+199,Iceland,Higher Education Institutions ,Private,,,,,,0.1
+200,Ireland,Higher Education Institutions ,Private,,,,,,0.3
+201,Israel,Higher Education Institutions ,Private,,,,,,0.8
+202,Italy,Higher Education Institutions ,Private,,,,,,0.2
+203,Japan,Higher Education Institutions ,Private,,,,,,1.0
+204,"Korea, Republic of",Higher Education Institutions ,Private,,,,,,1.9
+205,Luxembourg,Higher Education Institutions ,Private,,,,,,
+206,Mexico,Higher Education Institutions ,Private,,,,,,0.4
+207,Netherlands,Higher Education Institutions ,Private,,,,,,0.5
+208,New Zealand,Higher Education Institutions ,Private,,,,,,0.5
+209,Norway,Higher Education Institutions ,Private,,,,,,0.1
+210,Poland,Higher Education Institutions ,Private,,,,,,0.3
+211,Portugal,Higher Education Institutions ,Private,,,,,,0.4
+212,Slovak Republic,Higher Education Institutions ,Private,,,,,,0.2
+213,Slovenia,Higher Education Institutions ,Private,,,,,,0.2
+214,Spain,Higher Education Institutions ,Private,,,,,,0.3
+215,Sweden,Higher Education Institutions ,Private,,,,,,0.2
+216,Switzerland,Higher Education Institutions ,Private,,,,,,
+217,Turkey,Higher Education Institutions ,Private,,,,,,
+218,United Kingdom,Higher Education Institutions ,Private,,,,,,0.3
+219,United States,Higher Education Institutions ,Private,,,,,,1.8
+220,  Brazil,Higher Education Institutions ,Private,,,,,,
+221,  Russian Federation,Higher Education Institutions ,Private,,,,,,0.5
+222,OECD Average,All Institutions ,Total,,,,,,6.1
+223,Australia,All Institutions ,Total,,,,,,5.8
+224,Austria,All Institutions ,Total,,,,,,5.7
+225,Belgium,All Institutions ,Total,,,,,,6.6
+226,Canada,All Institutions ,Total,,,,,,
+227,Chile,All Institutions ,Total,,,,,,6.4
+228,Czech Republic,All Institutions ,Total,,,,,,5.0
+229,Denmark,All Institutions ,Total,,,,,,7.9
+230,Estonia,All Institutions ,Total,,,,,,5.5
+231,Finland,All Institutions ,Total,,,,,,6.5
+232,France,All Institutions ,Total,,,,,,6.1
+233,Germany,All Institutions ,Total,,,,,,5.1
+234,Greece,All Institutions ,Total,,,,,,
+235,Hungary,All Institutions ,Total,,,,,,
+236,Iceland,All Institutions ,Total,,,,,,7.7
+237,Ireland,All Institutions ,Total,,,,,,6.2
+238,Israel,All Institutions ,Total,,,,,,7.3
+239,Italy,All Institutions ,Total,,,,,,4.6
+240,Japan,All Institutions ,Total,,,,,,5.1
+241,"Korea, Republic of",All Institutions ,Total,,,,,,7.6
+242,Luxembourg,All Institutions ,Total,,,,,,
+243,Mexico,All Institutions ,Total,,,,,,6.2
+244,Netherlands,All Institutions ,Total,,,,,,6.2
+245,New Zealand,All Institutions ,Total,,,,,,7.5
+246,Norway,All Institutions ,Total,,,,,,
+247,Poland,All Institutions ,Total,,,,,,5.5
+248,Portugal,All Institutions ,Total,,,,,,5.5
+249,Slovak Republic,All Institutions ,Total,,,,,,4.4
+250,Slovenia,All Institutions ,Total,,,,,,5.9
+251,Spain,All Institutions ,Total,,,,,,5.5
+252,Sweden,All Institutions ,Total,,,,,,6.3
+253,Switzerland,All Institutions ,Total,,,,,,5.6
+254,Turkey,All Institutions ,Total,,,,,,
+255,United Kingdom,All Institutions ,Total,,,,,,6.4
+256,United States,All Institutions ,Total,,,,,,6.9
+257,  Brazil,All Institutions ,Total,,,,,,
+258,  Russian Federation,All Institutions ,Total,,,,,,4.6
+259,OECD Average,Elementary and Secondary Institutions ,Total,,,,,,3.8
+260,Australia,Elementary and Secondary Institutions ,Total,,,,,,4.1
+261,Austria,Elementary and Secondary Institutions ,Total,,,,,,3.6
+262,Belgium,Elementary and Secondary Institutions ,Total,,,,,,4.4
+263,Canada,Elementary and Secondary Institutions ,Total,,,,,,
+264,Chile,Elementary and Secondary Institutions ,Total,,,,,,3.4
+265,Czech Republic,Elementary and Secondary Institutions ,Total,,,,,,2.9
+266,Denmark,Elementary and Secondary Institutions ,Total,,,,,,4.4
+267,Estonia,Elementary and Secondary Institutions ,Total,,,,,,3.4
+268,Finland,Elementary and Secondary Institutions ,Total,,,,,,4.1
+269,France,Elementary and Secondary Institutions ,Total,,,,,,3.9
+270,Germany,Elementary and Secondary Institutions ,Total,,,,,,3.1
+271,Greece,Elementary and Secondary Institutions ,Total,,,,,,
+272,Hungary,Elementary and Secondary Institutions ,Total,,,,,,
+273,Iceland,Elementary and Secondary Institutions ,Total,,,,,,4.9
+274,Ireland,Elementary and Secondary Institutions ,Total,,,,,,4.6
+275,Israel,Elementary and Secondary Institutions ,Total,,,,,,4.2
+276,Italy,Elementary and Secondary Institutions ,Total,,,,,,3.1
+277,Japan,Elementary and Secondary Institutions ,Total,,,,,,2.9
+278,"Korea, Republic of",Elementary and Secondary Institutions ,Total,,,,,,4.1
+279,Luxembourg,Elementary and Secondary Institutions ,Total,,,,,,3.4
+280,Mexico,Elementary and Secondary Institutions ,Total,,,,,,4.0
+281,Netherlands,Elementary and Secondary Institutions ,Total,,,,,,4.0
+282,New Zealand,Elementary and Secondary Institutions ,Total,,,,,,5.4
+283,Norway,Elementary and Secondary Institutions ,Total,,,,,,
+284,Poland,Elementary and Secondary Institutions ,Total,,,,,,3.4
+285,Portugal,Elementary and Secondary Institutions ,Total,,,,,,3.7
+286,Slovak Republic,Elementary and Secondary Institutions ,Total,,,,,,2.8
+287,Slovenia,Elementary and Secondary Institutions ,Total,,,,,,3.8
+288,Spain,Elementary and Secondary Institutions ,Total,,,,,,3.2
+289,Sweden,Elementary and Secondary Institutions ,Total,,,,,,3.9
+290,Switzerland,Elementary and Secondary Institutions ,Total,,,,,,4.0
+291,Turkey,Elementary and Secondary Institutions ,Total,,,,,,
+292,United Kingdom,Elementary and Secondary Institutions ,Total,,,,,,4.7
+293,United States,Elementary and Secondary Institutions ,Total,,,,,,3.7
+294,  Brazil,Elementary and Secondary Institutions ,Total,,,,,,
+295,  Russian Federation,Elementary and Secondary Institutions ,Total,,,,,,2.1
+296,OECD Average,Higher Education Institutions ,Total,,,,,,1.6
+297,Australia,Higher Education Institutions ,Total,,,,,,1.6
+298,Austria,Higher Education Institutions ,Total,,,,,,1.5
+299,Belgium,Higher Education Institutions ,Total,,,,,,1.4
+300,Canada,Higher Education Institutions ,Total,,,,,,
+301,Chile,Higher Education Institutions ,Total,,,,,,2.4
+302,Czech Republic,Higher Education Institutions ,Total,,,,,,1.4
+303,Denmark,Higher Education Institutions ,Total,,,,,,1.9
+304,Estonia,Higher Education Institutions ,Total,,,,,,1.7
+305,Finland,Higher Education Institutions ,Total,,,,,,1.9
+306,France,Higher Education Institutions ,Total,,,,,,1.5
+307,Germany,Higher Education Institutions ,Total,,,,,,1.3
+308,Greece,Higher Education Institutions ,Total,,,,,,
+309,Hungary,Higher Education Institutions ,Total,,,,,,
+310,Iceland,Higher Education Institutions ,Total,,,,,,1.2
+311,Ireland,Higher Education Institutions ,Total,,,,,,1.5
+312,Israel,Higher Education Institutions ,Total,,,,,,1.7
+313,Italy,Higher Education Institutions ,Total,,,,,,1.0
+314,Japan,Higher Education Institutions ,Total,,,,,,1.6
+315,"Korea, Republic of",Higher Education Institutions ,Total,,,,,,2.6
+316,Luxembourg,Higher Education Institutions ,Total,,,,,,
+317,Mexico,Higher Education Institutions ,Total,,,,,,1.3
+318,Netherlands,Higher Education Institutions ,Total,,,,,,1.8
+319,New Zealand,Higher Education Institutions ,Total,,,,,,1.5
+320,Norway,Higher Education Institutions ,Total,,,,,,1.7
+321,Poland,Higher Education Institutions ,Total,,,,,,1.3
+322,Portugal,Higher Education Institutions ,Total,,,,,,1.4
+323,Slovak Republic,Higher Education Institutions ,Total,,,,,,1.0
+324,Slovenia,Higher Education Institutions ,Total,,,,,,1.3
+325,Spain,Higher Education Institutions ,Total,,,,,,1.3
+326,Sweden,Higher Education Institutions ,Total,,,,,,1.7
+327,Switzerland,Higher Education Institutions ,Total,,,,,,
+328,Turkey,Higher Education Institutions ,Total,,,,,,
+329,United Kingdom,Higher Education Institutions ,Total,,,,,,1.2
+330,United States,Higher Education Institutions ,Total,,,,,,2.7
+331,  Brazil,Higher Education Institutions ,Total,,,,,,
+332,  Russian Federation,Higher Education Institutions ,Total,,,,,,1.4
